@@ -4,7 +4,7 @@ using RoR2;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 
-namespace ExamplePlugin
+namespace R2ItemRemover
 {
     //This is an example plugin that can be put in BepInEx/plugins/ExamplePlugin/ExamplePlugin.dll to test out.
     //It's a small plugin that adds a relatively simple item to the game, and gives you that item whenever you press F2.

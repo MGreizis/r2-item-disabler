@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace ExamplePlugin
+namespace R2ItemRemover
 {
     internal static class Log
     {
